@@ -1,1 +1,1 @@
-# MLBasics
+# Machine Learning Basic Projects
