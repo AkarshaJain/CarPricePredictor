@@ -1,10 +1,10 @@
-Car Price Predictor
+**Car Price Predictor**
 
-Aim
+**Aim**
 This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, and other parameters.
 
 
-How to use?
+**How to use?**
 Clone the repository
 Install the required packages in "requirements.txt" file.
 Some packages are:
